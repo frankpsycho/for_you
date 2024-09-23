@@ -1,0 +1,18 @@
+body {
+    background-image: url('https://example.com/romantic-background.jpg');
+    font-family: 'Pacifico', cursive;
+    text-align: center;
+}
+
+.word {
+    font-size: 48px;
+    color: #F39;
+    opacity: 0;
+    transition: opacity 0.5s;
+}
+
+.container {
+    width: 80%;
+    margin: 40px auto;
+    text-align: center;
+}
